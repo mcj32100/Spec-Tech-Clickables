@@ -1,0 +1,6 @@
+ID,Name,PNGFilename,Text,x,y,visible
+0,Tree,assets/1Tree.png,,200,385,yes
+1,Car,assets/1Car.png,,500,500,yes
+2,Computer,assets/1Computer.png,,900,445,yes
+3,Closer,,N/A,200,50,yes
+4,Further,,N/A,450,50,yes
